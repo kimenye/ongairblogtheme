@@ -631,7 +631,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .content .post-template .post-header {
-    padding: 0px;
+    padding: 0px 0px;
 }
 
 .post-template .blog-title {
