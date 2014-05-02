@@ -1,6 +1,6 @@
 # Casper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+The default theme for [Ghost](http://github.com/tryghost/ghost/) with some modifications for the [Ongair blog](http://ongair.im/blog/)
 
 ## Copyright & License
 

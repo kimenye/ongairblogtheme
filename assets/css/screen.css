@@ -630,6 +630,10 @@ margin on the iframe, cause it breaks stuff. */
     text-align: center;
 }
 
+.content .post-template .post-header {
+    padding: 0px;
+}
+
 .post-template .blog-title {
     display: inline-block;
     padding: 2.5rem 0;
